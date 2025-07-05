@@ -1,0 +1,11 @@
+What is vector<int>?
+In this problem, vector<int> is used to return multiple values (specifically, two integers) 
+from the function passedBy()
+
+C++ functions can only return one value directly. If you want to return two integers, you have three common choices:
+Return a struct or pair
+Modify arguments by reference (already used here)
+Return a vector<int>, which can hold multiple integers
+-----return std::pair<int,int>-----
+You can return a std::pair<int, int> to return two integers from a function.
+
