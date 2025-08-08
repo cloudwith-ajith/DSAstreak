@@ -3,7 +3,7 @@
 Welcome to my **Daily Code Practice** repository! 
 This is a personal project where I commit code every day to track my programming progress and maintain consistency in my learning and problem-solving.
 
----
+---  
 
 ## 📅 What is this repo?   
 
