@@ -12,7 +12,7 @@ class solution{
 };
 
 int main(){
-    solution a;
+    solution a;  
     int ans = a.multiplication(2,2);
     cout << ans;
     return 0;
