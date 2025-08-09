@@ -15,7 +15,7 @@ int main(){
     solution a;  
     int ans = a.multiplication(2,2);
     cout << ans;
-    return 0;
+    return 0; 
 }
 
 // ----------------------------------------------------------if else--------
