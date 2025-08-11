@@ -19,7 +19,7 @@ Basics to advanced .
 ## 🎯 Goals    
 
 - Practice coding **every single day**
-- Improve problem-solving and algorithmic thinking
+- Improve problem-solving and algorithmic thinking   
 - Stay consistent with learning
 - Track and reflect on my progress over time
 
