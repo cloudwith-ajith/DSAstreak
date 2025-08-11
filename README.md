@@ -16,7 +16,7 @@ Each folder represents a new day of practice, containing the problems I've worke
 Basics to advanced .
 
 ---
-## 🎯 Goals
+## 🎯 Goals 
 
 - Practice coding **every single day**
 - Improve problem-solving and algorithmic thinking
