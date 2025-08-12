@@ -4,7 +4,7 @@
 using namespace std;
 
 class solution{
-    public:
+    public:  
     int multiplication(int a,int b){
         int c = a * b ;
         return c ;
