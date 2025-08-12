@@ -10,7 +10,7 @@ class solution{
         return c ;
     }; 
 };
-
+  
 int main(){
     solution a;  
     int ans = a.multiplication(2,2);
