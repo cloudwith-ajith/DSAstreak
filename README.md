@@ -12,7 +12,7 @@ Each folder represents a new day of practice, containing the problems I've worke
 
 ---  
    
-## 📂 Structure by Strivers A2Z DSA Sheet 
+## 📂 Structure by Strivers A2Z DSA Sheet   
 Basics to advanced .
 
 ---
