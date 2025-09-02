@@ -6,7 +6,7 @@ This is a personal project where I commit code every day to track my programming
 ---  
   
 ## 📅 What is this repo?       
-
+  
 This repository is structured as a day-by-day log of my coding journey. 
 Each folder represents a new day of practice, containing the problems I've worked on, along with my solutions and notes when applicable.
 
